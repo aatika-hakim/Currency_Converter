@@ -1,11 +1,12 @@
 {
-  "name": "currency_converter",
+  "name": "atika-currency-converter",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": "./index.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
